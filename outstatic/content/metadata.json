@@ -1,7 +1,25 @@
 {
-  "commit": "5f4645b6d0b7112f35ab11164d8415a65acbc90c",
-  "generated": "2023-11-25T09:35:01.412Z",
+  "commit": "c81288d36b52ac0b3fcaca89d55bae1892de37a4",
+  "generated": "Sat, 25 Nov 2023 09:35:21 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "3b8c8c142b4a455992a6bd0d47652ee61cd78a8c",
+        "hash": "280890933",
+        "path": "outstatic/content/posts/post-ketiga.md"
+      },
+      "author": {
+        "name": "Ghazi Taqiyya Al Anshari",
+        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-25T10:16:43.545Z",
+      "slug": "post-ketiga",
+      "status": "published",
+      "title": "Post Ketiga"
+    },
     {
       "__outstatic": {
         "commit": "21eed7af65a7c19a09b39a2e3bc0551c3db7e455",
@@ -37,24 +55,6 @@
       "slug": "halo-ini-adalah-postingan-pertamaku-menggunakan-outstatic-cms",
       "status": "published",
       "title": "Halo ini adalah postingan pertamaku menggunakan Outstatic CMS"
-    },
-    {
-      "__outstatic": {
-        "commit": "5f4645b6d0b7112f35ab11164d8415a65acbc90c",
-        "hash": "280890933",
-        "path": "outstatic/content/posts/post-ketiga.md"
-      },
-      "author": {
-        "name": "Ghazi Taqiyya Al Anshari",
-        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-25T10:16:43.545Z",
-      "slug": "post-ketiga",
-      "status": "published",
-      "title": "Post Ketiga"
     }
   ]
 }
