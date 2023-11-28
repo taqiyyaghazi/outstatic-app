@@ -1,24 +1,24 @@
 {
   "commit": "bde68fdb6385c738d42a0168c59814fb104cd175",
-  "generated": "2023-11-28T13:31:48.873Z",
+  "generated": "2023-11-28T13:32:36.877Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "a3090c8939984195ee0140f5efdbcbf534cdca40",
-        "hash": "2665430395",
-        "path": "outstatic/content/posts/membongkar-keunggulan-nextjs-masa-depan-pengembangan-web-yang-efisien.md"
+        "commit": "649700e16077d8429b97801393e16f7916da9dd4",
+        "hash": "625466656",
+        "path": "outstatic/content/posts/membangun-aplikasi-web-scalable-dengan-nestjs-framework-nodejs-yang-kuat.md"
       },
       "author": {
         "name": "Ghazi Taqiyya Al Anshari",
         "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
       },
       "collection": "posts",
-      "coverImage": "/images/nextjs-banner-AwMz.png",
+      "coverImage": "/images/nestjs-QxNz.jpeg",
       "description": "",
-      "publishedAt": "2023-11-28T03:33:34.704Z",
-      "slug": "membongkar-keunggulan-nextjs-masa-depan-pengembangan-web-yang-efisien",
+      "publishedAt": "2023-11-28T14:08:44.785Z",
+      "slug": "membangun-aplikasi-web-scalable-dengan-nestjs-framework-nodejs-yang-kuat",
       "status": "published",
-      "title": "Membongkar Keunggulan Next.js: Masa Depan Pengembangan Web yang Efisien"
+      "title": "Membangun Aplikasi Web Scalable dengan NestJS: Framework Node.js yang Kuat"
     }
   ]
 }
