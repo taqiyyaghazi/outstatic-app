@@ -4,42 +4,6 @@
   "metadata": [
     {
       "__outstatic": {
-        "commit": "21eed7af65a7c19a09b39a2e3bc0551c3db7e455",
-        "hash": "930502825",
-        "path": "outstatic/content/posts/post-kedua.md"
-      },
-      "author": {
-        "name": "Ghazi Taqiyya Al Anshari",
-        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-25T08:55:35.039Z",
-      "slug": "post-kedua",
-      "status": "published",
-      "title": "Post kedua"
-    },
-    {
-      "__outstatic": {
-        "commit": "290047909d722d6ddc20130a6800f1a273757d9a",
-        "hash": "1317115095",
-        "path": "outstatic/content/posts/halo-ini-adalah-postingan-pertamaku-menggunakan-outstatic-cms.md"
-      },
-      "author": {
-        "name": "Ghazi Taqiyya Al Anshari",
-        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-24T01:42:29.302Z",
-      "slug": "halo-ini-adalah-postingan-pertamaku-menggunakan-outstatic-cms",
-      "status": "published",
-      "title": "Halo ini adalah postingan pertamaku menggunakan Outstatic CMS"
-    },
-    {
-      "__outstatic": {
         "commit": "488049dfbf22bdd4a5be6d5cc1ef80b0356fe962",
         "hash": "2665430395",
         "path": "outstatic/content/posts/membongkar-keunggulan-nextjs-masa-depan-pengembangan-web-yang-efisien.md"
