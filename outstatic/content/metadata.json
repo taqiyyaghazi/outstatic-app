@@ -1,12 +1,12 @@
 {
   "commit": "a6485de09db3a36bf78d35cc49ef3812f53f915a",
-  "generated": "2023-11-28T02:46:59.548Z",
+  "generated": "2023-11-28T02:47:03.353Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "3b8c8c142b4a455992a6bd0d47652ee61cd78a8c",
-        "hash": "280890933",
-        "path": "outstatic/content/posts/post-ketiga.md"
+        "commit": "21eed7af65a7c19a09b39a2e3bc0551c3db7e455",
+        "hash": "930502825",
+        "path": "outstatic/content/posts/post-kedua.md"
       },
       "author": {
         "name": "Ghazi Taqiyya Al Anshari",
@@ -15,10 +15,10 @@
       "collection": "posts",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2023-11-25T10:16:43.545Z",
-      "slug": "post-ketiga",
+      "publishedAt": "2023-11-25T08:55:35.039Z",
+      "slug": "post-kedua",
       "status": "published",
-      "title": "Post Ketiga"
+      "title": "Post kedua"
     },
     {
       "__outstatic": {
