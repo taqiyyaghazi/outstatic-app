@@ -1,25 +1,7 @@
 {
-  "commit": "2f89ca3bb5f10c52f523fa915ca3f8fc60b42b0f",
-  "generated": "Tue, 28 Nov 2023 13:28:52 GMT",
+  "commit": "bde68fdb6385c738d42a0168c59814fb104cd175",
+  "generated": "2023-11-28T13:31:48.873Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "649700e16077d8429b97801393e16f7916da9dd4",
-        "hash": "625466656",
-        "path": "outstatic/content/posts/membangun-aplikasi-web-scalable-dengan-nestjs-framework-nodejs-yang-kuat.md"
-      },
-      "author": {
-        "name": "Ghazi Taqiyya Al Anshari",
-        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/nestjs-QxNz.jpeg",
-      "description": "",
-      "publishedAt": "2023-11-28T14:08:44.785Z",
-      "slug": "membangun-aplikasi-web-scalable-dengan-nestjs-framework-nodejs-yang-kuat",
-      "status": "published",
-      "title": "Membangun Aplikasi Web Scalable dengan NestJS: Framework Node.js yang Kuat"
-    },
     {
       "__outstatic": {
         "commit": "a3090c8939984195ee0140f5efdbcbf534cdca40",
