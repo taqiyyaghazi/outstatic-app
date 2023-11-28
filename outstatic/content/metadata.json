@@ -1,6 +1,6 @@
 {
-  "commit": "c81288d36b52ac0b3fcaca89d55bae1892de37a4",
-  "generated": "Sat, 25 Nov 2023 09:35:21 GMT",
+  "commit": "a6485de09db3a36bf78d35cc49ef3812f53f915a",
+  "generated": "2023-11-28T02:46:55.060Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "post-kedua",
       "status": "published",
       "title": "Post kedua"
-    },
-    {
-      "__outstatic": {
-        "commit": "290047909d722d6ddc20130a6800f1a273757d9a",
-        "hash": "1317115095",
-        "path": "outstatic/content/posts/halo-ini-adalah-postingan-pertamaku-menggunakan-outstatic-cms.md"
-      },
-      "author": {
-        "name": "Ghazi Taqiyya Al Anshari",
-        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-24T01:42:29.302Z",
-      "slug": "halo-ini-adalah-postingan-pertamaku-menggunakan-outstatic-cms",
-      "status": "published",
-      "title": "Halo ini adalah postingan pertamaku menggunakan Outstatic CMS"
     }
   ]
 }
