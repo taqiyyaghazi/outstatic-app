@@ -1,0 +1,42 @@
+{
+  "commit": "d79a5f8676092f3ac53f68fabd51e15d551c7e5d",
+  "generated": "Tue, 28 Nov 2023 14:13:12 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "5002025d683605614a2d4f048d712bd4b6ec0d96",
+        "hash": "4293994784",
+        "path": "outstatic/content/posts/membongkar-keunggulan-nextjs-masa-depan-pengembangan-web-yang-efisien.md"
+      },
+      "author": {
+        "name": "Ghazi Taqiyya Al Anshari",
+        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/nextjs-banner-c1OT.png",
+      "description": "",
+      "publishedAt": "2023-11-28T14:29:57.297Z",
+      "slug": "membongkar-keunggulan-nextjs-masa-depan-pengembangan-web-yang-efisien",
+      "status": "published",
+      "title": "Membongkar Keunggulan Next.js: Masa Depan Pengembangan Web yang Efisien"
+    },
+    {
+      "__outstatic": {
+        "commit": "2d0d19b3305cbd3b2c308e7ed2f183d4a35a81a4",
+        "hash": "1878423185",
+        "path": "outstatic/content/posts/membangun-aplikasi-web-scalable-dengan-nestjs-framework-nodejs-yang-kuat.md"
+      },
+      "author": {
+        "name": "Ghazi Taqiyya Al Anshari",
+        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/nestjs-AxOD.jpeg",
+      "description": "",
+      "publishedAt": "2023-11-28T14:33:30.253Z",
+      "slug": "membangun-aplikasi-web-scalable-dengan-nestjs-framework-nodejs-yang-kuat",
+      "status": "published",
+      "title": "Membangun Aplikasi Web Scalable dengan NestJS: Framework Node.js yang Kuat"
+    }
+  ]
+}
