@@ -1,6 +1,6 @@
 {
-  "commit": "d79a5f8676092f3ac53f68fabd51e15d551c7e5d",
-  "generated": "Tue, 28 Nov 2023 14:13:12 GMT",
+  "commit": "f30bb7dfa0e355324f62c0adbaadbcf0a4f45a35",
+  "generated": "2023-11-29T01:01:34.352Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "membangun-aplikasi-web-scalable-dengan-nestjs-framework-nodejs-yang-kuat",
       "status": "published",
       "title": "Membangun Aplikasi Web Scalable dengan NestJS: Framework Node.js yang Kuat"
+    },
+    {
+      "__outstatic": {
+        "commit": "f30bb7dfa0e355324f62c0adbaadbcf0a4f45a35",
+        "hash": "2894430490",
+        "path": "outstatic/content/posts/membangun-aplikasi-web-modern-dengan-nuxtjs-menggali-potensi-framework-vuejs-yang-kuat.md"
+      },
+      "author": {
+        "name": "Ghazi Taqiyya Al Anshari",
+        "picture": "https://avatars.githubusercontent.com/u/64888591?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/nuxtjs-YwNT.webp",
+      "description": "",
+      "publishedAt": "2023-11-29T01:42:01.460Z",
+      "slug": "membangun-aplikasi-web-modern-dengan-nuxtjs-menggali-potensi-framework-vuejs-yang-kuat",
+      "status": "draft",
+      "title": "Membangun Aplikasi Web Modern dengan Nuxt.js: Menggali Potensi Framework Vue.js yang Kuat"
     }
   ]
 }
